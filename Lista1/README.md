@@ -1,0 +1,1 @@
+Uma lista de exercícios que fiz a uns meses atrás no início do meu curso em Ciências da Computação. São códigos bem robustos e não bem formatados, mas que ajudam a visualizar meu progresso ao longo do tempo.
